@@ -33,7 +33,7 @@ This is a React-based chat application that supports user authentication and rea
 ## Installation
 
 
-1To get started with this project, follow these steps:
+To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -63,7 +63,7 @@ This is a React-based chat application that supports user authentication and rea
 5. Start the development server:
     ```bash
     npm start
-6. Open your browser and visit http://localhost:3000 to view the Recipe App.
+6. Open your browser and visit http://localhost:3000 to view the chat App.
 
 
 ## Usage
